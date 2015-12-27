@@ -1,0 +1,51 @@
+# Testing framework tools
+
+* [Intern](https://theintern.github.io/)
+* [Karma](http://karma-runner.github.io/0.8/index.html)
+* [NightWatch.js](http://nightwatchjs.org/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
