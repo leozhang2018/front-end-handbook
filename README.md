@@ -1,4 +1,4 @@
-# 前端开发手册
+# 前端手册
 
 原文由 [Cody Lindley](http://codylindley.com/)编写,[Frontend Masters](https://frontendmasters.com/)提供赞助。
 此项目为原文的中文翻译版本。
