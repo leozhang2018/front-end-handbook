@@ -1,4 +1,5 @@
 # Front-end jobs titles
+
 # 前端开发中的职称
 
 Below is a list and description of various front-end job titles. The common, or most used (i.e. generic), title for a front-end developer is, "front-end developer" or "front-end engineer". Note that any job that contains the word "front-end", "client-side", "web UI", "HTML", "CSS", or "JavaScript" typically infers that a person has some degree of HTML, CSS, DOM, and JavaScript professional know how.
@@ -76,27 +77,42 @@ When the word "Mobile" or "Tablet" is included in the job title, this will denot
 
 When the word "SEO" is included in the job title, this will denote that the developer has extensive experience crafting front-end technologies towards an SEO strategy.
 
-当 "SEO" 出现在头衔中，意味着该开发者有着丰富的利用前端技术制定 SEO 策略的经验
+当 "SEO" 出现在头衔中，意味着该开发者有着丰富的经验，利用前端技术制定 SEO 策略。
 
 ***
 
 **Front-end Accessibility Expert**
 
+**前端无障碍专家**
+
+
 When the word "Acessibility" is included in the job title, this will denote that the developer has extensive experience crafting front-end technologies that support accessibility requirements and standards.
+
+当「无障碍」一词出现在头衔中,意味着该开发者在利用前端技术满足无障碍需求及相关标准时,有着丰厚的经验。
 
 ***
 
 **Front-end Dev. Ops**
 
+**前端开发运维**
+
 When the word "DevOps" is included in the job title, this will denote that the developer has extensive experience with software development practices pertaining to collaboration, integration, deployment, automation, and measurement.
+
+当 "DevOps" 一词在头衔中出现，这意味着该开发者有着丰富的软件开发实践经验,包括协作、集成、部署、自动化以及度量。
 
 ***
 
 **Front-end Testing/QA**
 
+**前端测试工程师**
+
 When the word "Testing" or "QA" is included in the job title, this will denote that the developer has extensive experience testing and managing software that involves unit testing, functional testing, user testing, and A/B testing.
+
+当 "Testing" 或者是 "QA" 在头衔中出现，这意味着该开发者软件测试以及软件管理经验，包括单元测试、功能测试、用户测试、以及 A/B 测试。
 
 ***
 
 Note that if you come across the "Full Stack" or the generic "Web Developer" terms in job titles these words may be used to by an employer to describe a role that is responsible for all aspects of web/app development i.e. both front-end (potentially including design) and back-end.
+
+注意，当你在职称中遇见「全栈」或者是通用的「Web 工程师」等词汇，可能被雇主用来描述这个角色负责 Web /应用程序 开发的各个方面即前端（可能包括设计）和后端。
 
