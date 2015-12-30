@@ -1,6 +1,6 @@
 # 前端开发手册
 
-原文由 [Cody Lindley](http://codylindley.com/)编写,[Frontend Masters](https://frontendmasters.com/)提供赞助。
+原文由 [Cody Lindley](http://codylindley.com/) 编写,[Frontend Masters](https://frontendmasters.com/) 提供赞助。
 此项目为原文的中文翻译版本。
 
 贡献者列表：
@@ -19,7 +19,7 @@ It is specifically written with the intention of being a professional resource f
 
 The content of the handbook favors web technologies (HTML, CSS, DOM, and JavaScript) and those solutions that are directly built on top of these open technologies. The materials referenced and discussed in the book are either best in class or the current offering to a problem. 
 
-手册中的内容基于当下流行的 web 技术（DOM HTML、CSS和JavaScript），并且书中的解决方案都是基于这些开放的技术。
+手册中的内容基于当下流行的 Web 技术（DOM HTML、CSS和JavaScript），并且书中的解决方案都是基于这些开放的技术。
 书中所引用的例子以及相关讨论都是当下有重要参考价值的。
 
 The book should not be considered a comprehensive outline of all resources available to a front-end developer. The value of the book is tied up in a terse, focused, and timely curation of just enough categorical information so as not to overwhelm anyone on any one particular subject matter.
@@ -28,7 +28,7 @@ The book should not be considered a comprehensive outline of all resources avail
 
 The intention is to release an update to the content yearly.
 
-其目的是每年发布一个更新内容。
+其目的是每年发布一次内容更新。
 
 The handbook is divided into three parts. 
 
@@ -66,7 +66,7 @@ Part three briefly explains and identifies tools of the trade.
 
 **在线阅读**: 
 
-* [http://www.frontendhandbook.com](http://www.frontendhandbook.com/)
+* [http://fe.leozhang2018.me](http://fe.leozhang2018.me)
  
 **.pdf, .epub, or .mobi 下载**: 
 

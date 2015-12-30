@@ -4,8 +4,8 @@
 
 Below is a list and description of various front-end job titles. The common, or most used (i.e. generic), title for a front-end developer is, "front-end developer" or "front-end engineer". Note that any job that contains the word "front-end", "client-side", "web UI", "HTML", "CSS", or "JavaScript" typically infers that a person has some degree of HTML, CSS, DOM, and JavaScript professional know how.
 
-以下列出了一些在前端开发中的常用职称。常见的，或者最常用（通用）的前端开发者的职称是“前端开发者”或“前端开发工程师”。
-任何一项工作，如果其中包含「前端」、「客户端」、“Web UI”、“HTML”、“CSS”或“JavaScript” 这些词。
+以下列出了一些在前端开发中的常用职称。常见的，或者最常用（通用）的前端开发者的职称是「前端开发者」或「前端开发工程师」。
+任何一项工作，如果其中包含「前端」、「客户端」、"Web UI"、"HTML"、"CSS"或"JavaScript" 这些词。
 通常都可以推断出，这个人在某种程度上对 HTML、CSS、DOM 和 JavaScript 有着专业的了解。
 
 ***
@@ -56,7 +56,7 @@ When the word "Designer" is included in the job title, this will denote that the
 
 When the word "Interface" or "UI" is included in the job title, this will denote that the developer should posses interaction design skills in addition to front-end skills.
 
-当「交互」或者是 “UI” 在头衔中出现，这意味着该开发者掌握交互设计技能的同时，也拥有前端技能。
+当「交互」或者是 "UI" 在头衔中出现，这意味着该开发者掌握交互设计技能的同时，也拥有前端技能。
 
 
 ***
