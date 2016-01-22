@@ -1,5 +1,7 @@
 # How front-end developers are made
 
+
+
 ![](../images/making-fd.png "http://cdn.skilledup.com/wp-content/uploads/2014/11/life-of-front-end-developer-infographic-Secondary.jpg")
 
 <cite>image source: <a href="http://cdn.skilledup.com/wp-content/uploads/2014/11/life-of-front-end-developer-infographic-Secondary.jpg">http://cdn.skilledup.com/wp-content/uploads/2014/11/life-of-front-end-developer-infographic-Secondary.jpg</a></cite>
