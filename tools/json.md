@@ -7,6 +7,7 @@
 ##### Query tools:
 
 * [DefiantJS](http://www.defiantjs.com/)
+* [ExtendsClass](https://extendsclass.com/jsonpath-tester.html)
 * [JSON Mask](https://github.com/nemtsov/json-mask)
 * [ObjectPath](http://objectpath.org/)
 
